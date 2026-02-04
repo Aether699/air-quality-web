@@ -1,2 +1,0 @@
-# air-quality-web
-nothing
